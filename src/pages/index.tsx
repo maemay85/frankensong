@@ -16,14 +16,14 @@ const updateList = () => {
   return (
     <>
       <Head>
-        <title>List Randomizer</title>
-        <meta name="description" content="List randomizer app built using Create Next App" />
+        <title>Frankensong!</title>
+        <meta name="description" content="Frankensong app built using Create Next App" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className="main">
         <div>
-          <h1>List Randomizer</h1>
+          <h1>Frankensong!</h1>
         </div>
       </main>
     </>
